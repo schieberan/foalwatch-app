@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blackdashboardreactm-dev-54024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::363760508324:role/amplify-blackdashboardreactm-dev-54024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::363760508324:role/amplify-blackdashboardreactm-dev-54024-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-blackdashboardreactm-dev-54024-deployment",
+      "UnauthRoleName": "amplify-blackdashboardreactm-dev-54024-unauthRole",
+      "StackName": "amplify-blackdashboardreactm-dev-54024",
+      "StackId": "arn:aws:cloudformation:us-east-1:363760508324:stack/amplify-blackdashboardreactm-dev-54024/fb446bf0-2277-11eb-b846-0e6b672d4ae7",
+      "AmplifyAppId": "d2iltarfri27a5"
+    }
+  }
+}
